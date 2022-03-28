@@ -1,6 +1,5 @@
 ## 01-Structures.R
 # Code from 01-structures
-# annotate
 
 5 + 5
 4 - 1
